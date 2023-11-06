@@ -4,7 +4,7 @@ Analysis of Startup's Supply Chain
                               
 
 
-## Cost Analysis 
+### Cost Analysis 
 
 Average cost to produce a haircare product is $48, average cost to produce a skincare product is $48, while average cost to produce a cosmetic product is $43.
  
@@ -21,7 +21,7 @@ Skincare products have the highest lead times at 16.7 days. Haircare products ha
 There is a positive correlation between lead times and availability. Products with the longest lead times have the highest availability. Products with the lowest lead times have the lowest availability. There is a positive correlation between lead times and stock levels. Products with the highest lead times have the highest stock levels. Hence, products with high lead times lowers demand, resulting in high stock levels and availability. 
 
 
-### Logistics analysis
+### Logistics Analysis
 
 In order of highest to lowest, the most used transportation modes are road, rail, air and sea.
 Sea transportation has the lowest costs at an average of $417, while rail has the 2nd lowest transportation cost at $541.
@@ -36,7 +36,7 @@ Healthcare products have the highest defect rates while cosmetic products have t
 
 Products with the lowest manufacturing costs tend to have the lowest defect rate. Products with the highest manufacturing costs have the highest defect rates. This company already spends large amounts of money manufacturing products with high defect rates. Spending more will not reduce the defect rates. Instead, they should try to replicate the manufacturing process of their products with low defect rates. 
 
-### Production analysis 
+### Production Analysis 
 
 Products with low production volume have the highest stock levels while products with medium production volume have the lowest stock levels.
 
