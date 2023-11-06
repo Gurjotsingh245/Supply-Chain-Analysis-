@@ -1,14 +1,18 @@
 # Supply-Chain-Analysis-
 Analysis of Startup's Supply Chain
 
-                              
+### Project Overview
+This data analysis project aims to provide insights of the supply chain performance of a startup beauty products company. By analyzing various aspects of the supply chain, I seek to identify trends, make recomendations, and gain a deeper understanding of the company's performance.
+
+### Data Source 
+Attached is the data source I used for this project, called supply_chain_data.cvs
 
 
 ### Cost Analysis 
 
 Average cost to produce a haircare product is $48, average cost to produce a skincare product is $48, while average cost to produce a cosmetic product is $43.
  
-When we profit of each product by subtracting costs from price, we find that currently haircare and skincare products are not profitable. Only cosmetics is profitable. 
+When we calculate profit of each product by subtracting costs from price, we find that currently haircare and skincare products are not profitable. Only cosmetics is profitable. 
 
 Products that have the lowest manufacturing costs have the highest prices while products with the highest manufacturing costs have the lowest prices. This is an inverse relationship between manufacturing costs and product prices.
 
@@ -32,7 +36,7 @@ Route A has the lowest lead times and lowest costs. Hence, it makes sense to con
 
 ### Quality Analysis 
 
-Healthcare products have the highest defect rates while cosmetic products have the lowest defect rates. Skincare is in the middle. 
+Haircare products have the highest defect rates while cosmetic products have the lowest defect rates. Skincare is in the middle. 
 
 Products with the lowest manufacturing costs tend to have the lowest defect rate. Products with the highest manufacturing costs have the highest defect rates. This company already spends large amounts of money manufacturing products with high defect rates. Spending more will not reduce the defect rates. Instead, they should try to replicate the manufacturing process of their products with low defect rates. 
 
@@ -43,4 +47,10 @@ Products with low production volume have the highest stock levels while products
 There is a positive correlation between production volume and number of products sold. Products that have the highest sales have the highest production. While products with the lowest sales have the lowest production.
 However, when we compare production volume to order quantity (demand), we see that the company is under-producing products that have the highest demand and over-producing products that have the lowest demand. This is because the company is basing their products on past sales, rather than current demand. 
 
-
+### Conclusion
+This company currently loses money on selling skincare and haircare product, while only cosmetics is profitable.
+Manufacturing costs are highest for products with lowest retail prices. Company needs to find way to decrease these manufacturing costs or exit these product lines completely. 
+Long Lead times are positively correlated with high levels of product availability and stock levels. Hence, long leads teams are resulting in lower demand for products as well as higher carrying costs. Company needs to decrease lead times. 
+Company needs to increase usage of sea and rail transportation. Company needs to increase usage of routes A and C. Doing this will result in lower lead times.
+Haircare and skincare products have high manufacturing costs and high defect rates. Increasing manufacturing costs won't solve this high defect rate problem. Instead, operators will need to adjust the manufacturing process for lower defect rates of haircare and skincare products. 
+Company needs to set production goals on current demand, instead of historical sales. Currently, the company is under-producing products with high market demand and over-producing products with low market demand.
