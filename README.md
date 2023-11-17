@@ -32,7 +32,7 @@ Sea transportation has the lowest costs at an average of $417, while rail has th
 Sea transportation has the lowest lead times, while rail has the 2nd lowest lead times. Hence, it makes sense to increase sea transportation usage, as it is currently the least used method of transportation. Likewise, increase the use of rail transportation.  
 
 Route A is most commonly used, route B is middle, and route C is least commonly used. 
-Route A has the lowest lead times and lowest costs. Hence, it makes sense to continue using Route A has the most commonly used by the company, or even increasing Route A usage. Route C has the 2nd lowest costs and 2nd lowest lead times. Hence, this company should increase the usage of Route C. 
+Route A has the lowest lead times and lowest costs. Hence, it makes sense to continue using Route A as the most commonly used by the company, or even increasing Route A usage. Route C has the 2nd lowest costs and 2nd lowest lead times. Hence, this company should increase the usage of Route C. 
 
 ### Quality Analysis 
 
