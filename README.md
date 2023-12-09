@@ -45,7 +45,7 @@ Products with the lowest manufacturing costs tend to have the lowest defect rate
 Products with low production volume have the highest stock levels while products with medium production volume have the lowest stock levels.
 
 There is a positive correlation between production volume and number of products sold. Products that have the highest sales have the highest production. While products with the lowest sales have the lowest production.
-However, when we compare production volume to order quantity (demand), we see that the company is under-producing products that have the highest demand and over-producing products that have the lowest demand. This is because the company is basing their products on past sales, rather than current demand. 
+However, when we compare production volume to order quantity (demand), we see that the company is under-producing products that have the highest demand and over-producing products that have the lowest demand. This is because the company is basing their production on past sales, rather than current demand. 
 
 ### Conclusion
 This company currently loses money on selling skincare and haircare product, while only cosmetics is profitable.
