@@ -22,7 +22,7 @@ As this is a start-up beauty company, there might be more focus on revenue growt
 
 Skincare products have the highest lead times at 16.7 days. Haircare products have lead times of 15.5 days. Cosmetics products have shortest lead times at 15.4 days. 
 
-There is a positive correlation between lead times and availability. Products with the longest lead times have the highest availability. Products with the lowest lead times have the lowest availability. There is a positive correlation between lead times and stock levels. Products with the highest lead times have the highest stock levels. Hence, products with high lead times lowers demand, resulting in high stock levels and availability. 
+There is a positive correlation between lead times and availability. Products with the longest lead times have the highest availability. Products with the lowest lead times have the lowest availability. There is a positive correlation between lead times and stock levels. Products with the highest lead times have the highest stock levels. Hence, the company compensates products with high lead times by shipping large quantities, resulting in high stock levels and availability. 
 
 
 ### Logistics Analysis
